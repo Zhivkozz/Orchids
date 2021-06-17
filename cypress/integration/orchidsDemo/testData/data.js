@@ -6,7 +6,7 @@ module.exports = {
   newProducts: [
     {
       prName: "Test_product",
-      prCode: "1234Testzz",
+      prCode: "1234Testzz1",
       prDescription: "descriptionForTest",
     },
   ],
